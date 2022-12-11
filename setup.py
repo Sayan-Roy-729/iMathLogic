@@ -16,11 +16,11 @@ if os.path.isfile(requirement_path):
 
 setuptools.setup(
     name = "imathlogic",
-    version = "0.0.5",
+    version = "0.0.6",
     author = "Sayan Roy",
     author_email = "rsayan553@gmail.com",
     url = "https://github.com/Sayan-Roy-729/iMathLogic",
-    packages = ["imathlogic"],
+    packages = ["imathlogic", "imathlogic.supervised"],
     description = "Get the result of all types of algorithms in a simple way",
     license = "MIT",
     install_requires = install_requires
