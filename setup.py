@@ -2,7 +2,7 @@ import os
 
 import setuptools
 
-### get the dependencies ###
+# get the dependencies #
 # Get the current directory path
 lib_folder = os.path.dirname(os.path.realpath(__file__))
 # get the "requirements.txt" file path
@@ -16,7 +16,7 @@ if os.path.isfile(requirement_path):
 
 setuptools.setup(
     name = "imathlogic",
-    version = "0.0.4",
+    version = "0.0.5",
     author = "Sayan Roy",
     author_email = "rsayan553@gmail.com",
     url = "https://github.com/Sayan-Roy-729/iMathLogic",
