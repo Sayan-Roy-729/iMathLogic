@@ -15,7 +15,7 @@ if os.path.isfile(requirement_path):
         install_requires = f.read().splitlines()
 
 setuptools.setup(
-    name = "iMathLogic",
+    name = "imathlogic",
     version = "0.0.1",
     author = "Sayan Roy",
     author_email = "rsayan553@gmail.com",

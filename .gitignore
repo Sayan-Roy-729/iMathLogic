@@ -17,3 +17,8 @@
 
 # virtual environment
 */venv
+
+# generated diretories and folders
+**/build
+**/dist
+**/iMathLogic.egg-info
