@@ -20,7 +20,7 @@ setuptools.setup(
     author = "Sayan Roy",
     author_email = "rsayan553@gmail.com",
     url = "https://github.com/Sayan-Roy-729/iMathLogic",
-    packages = ["Supervised"],
+    packages = ["imathlogic"],
     description = "Get the result of all types of algorithms in a simple way",
     license = "MIT",
     install_requires = install_requires
