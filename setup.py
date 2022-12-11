@@ -16,7 +16,7 @@ if os.path.isfile(requirement_path):
 
 setuptools.setup(
     name = "imathlogic",
-    version = "0.0.2",
+    version = "0.0.3",
     author = "Sayan Roy",
     author_email = "rsayan553@gmail.com",
     url = "https://github.com/Sayan-Roy-729/iMathLogic",
